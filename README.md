@@ -5,7 +5,7 @@ A simple and beautiful web app to plan your study sessions, prioritize topics, a
 ---
 ## 🔗 Live Demo
 
-👉 [Visit the live site](https://devanubhavgupta.github.io/studyplanner/)  
+👉 [Visit the live site](https://anubxc.github.io/studyplanner/)  
 
 ---
 
@@ -53,6 +53,7 @@ study-schedule-planner/
 ## 👨‍💻 Author
 
 Made with ❤️ by **Anubhav**
+
 
 
 
