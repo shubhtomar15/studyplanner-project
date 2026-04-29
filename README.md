@@ -52,7 +52,7 @@ study-schedule-planner/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Anubhav**
+Made with ❤️ by **Shubham Tomar**
 
 
 
