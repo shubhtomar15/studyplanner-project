@@ -5,7 +5,7 @@ A simple and beautiful web app to plan your study sessions, prioritize topics, a
 ---
 ## 🔗 Live Demo
 
-👉 [Visit the live site](htpps://shubhtomar15.github.io/studyplanner-project/)  
+👉 [Visit the live site](https://shubhtomar15.github.io/studyplanner-project/)  
 
 ---
 
